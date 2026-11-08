@@ -5,7 +5,7 @@
 The product we made is the inventory manager **Stockily**. The aim of this project is to create software that eases warehouse management. Many users, ranging from factories and companies to simple stores, can use it to facilitate their stock and storage handling.📦
 
 <p align="center">
-  <img src="website overview.JPEG" alt="stockily website prototype" width="600">
+  <img src="wesbite overview.JPEG" alt="stockily website prototype" width="400">
 </p>
 
 ## Functional and Non-functional Requirements
